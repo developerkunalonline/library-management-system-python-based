@@ -1,0 +1,14 @@
+If you want to use this project then follow these steps
+
+1. Install mysql and dateutil using the fllowing commands:
+                (i) pip install mysql-connector-python
+                (ii) pip install python-dateutil
+
+2. since it is mysql based then you have to do any one of the following stuff:
+                (i) create database with name library or
+                (ii) import library.sql from db folder
+
+3. To create connection change user , password and host to  your one:
+            default user = root
+            default password = ""
+            default host = localhost
